@@ -1,6 +1,5 @@
 # Iniciar desde 0
 
-
 En la vida cotidiana parece ser una buena idea organizarnos en varios *niveles* al manejar cantidades grandes: bolsas de bolsas, cajas de cajas ... nos sirven igual, dependiendo de nuestra conveniencia. Claro, buscamos que el problema sea más fácil de manejar.
 
 ![Sistema Posicional](./images/positional-system.png)
@@ -66,9 +65,9 @@ En el ejemplo anteior, podemos leer la caja más grande a la derecha como
 
 # Llegamos a la secundaria, otra vez
 
-Aqui nos encontramos con la famosa $x$ que tanto les gustaba a los maestros (muchos la extraviaron y nos piden encontrarla).  No se preocupe, vamos a pasar directo a la división con $x$'s.
+Aqui nos encontramos con la famosa \\(x\\) que tanto les gustaba a los maestros (muchos la extraviaron y nos piden encontrarla).  No se preocupe, vamos a pasar directo a la división con \\(x\\)'s.
 
-## División en base $x$. 
+## División en base \\(x\\). 
 
 ![División de polinomios Tradicional vs. ED](./images/exploding-dots-division-x.png)
 
