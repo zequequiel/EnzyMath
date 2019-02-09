@@ -66,9 +66,9 @@ $$
 
 # Llegamos a la secundaria, otra vez
 
-Aqui nos encontramos con la famosa **x** que tanto les gustaba a los maestros (muchos la extraviaron y nos piden encontrarla).  No se preocupe, vamos a pasar directo a la división con **x**'s.
+Aqui nos encontramos con la famosa $x$ que tanto les gustaba a los maestros (muchos la extraviaron y nos piden encontrarla).  No se preocupe, vamos a pasar directo a la división con $x$'s.
 
-## División en base **x**.
+## División en base $x$. 
 
 ![División de polinomios Tradicional vs. ED](./images/exploding-dots-division-x.png)
 
