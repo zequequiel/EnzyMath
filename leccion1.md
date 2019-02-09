@@ -78,23 +78,19 @@ En el ejemplo anteior, podemos leer la caja más grande a la derecha como
 = (x^2+2x) + (x^2+2x) + (x+2) + (x+2) + (x+2)
 "  title="equation" />
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;
+\\[
 2x^2 + 7x + 6
 = (x+2)x + (x+2)x + (x+2) + (x+2) + (x+2)
-"  title="equation" />
+\\]
 
 
 # Resumen
 
 Hicimos todo lo anterior gracias a dos bloques de construcción matemáticos, los axiomas
 
-* <img src="https://latex.codecogs.com/svg.latex?\Large&space;
-x + 0 = 0
-"  title="equation" />
+* \\[ x + 0 = x \\]
 
-* <img src="https://latex.codecogs.com/svg.latex?\Large&space;
-x - x = 0
-"  title="equation" />
+* \\[ x - x = 0 \\]
 
 
 Ellos indican verdades tan simples que los pasamos desapercibidos. Junto con los demás axiomas de campo y las leyes de potencias, estos axiomas forman el núcleo del Álgebra, que es la base de las matemáticas que cualquier persona en áreas no STEM requiere en su vida diaria y profesional.
