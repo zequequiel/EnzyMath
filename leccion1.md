@@ -58,11 +58,11 @@ Si ya sé, ... "NO GRACIAS, se supone que sería más fácil, es muy extenso". L
 ![División Tradicional vs. ED](./images/exploding-dots-division.png)
 
 En el ejemplo anteior, podemos leer la caja más grande a la derecha como
-$$
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;
 276 
 = 120 + 120 + 12 + 12 + 12 
 = 10 \times 12 + 10 \times 12 + 12 + 12 + 12
-$$
+"  title="equation" />
 
 # Llegamos a la secundaria, otra vez
 
@@ -73,22 +73,29 @@ Aqui nos encontramos con la famosa $x$ que tanto les gustaba a los maestros (muc
 ![División de polinomios Tradicional vs. ED](./images/exploding-dots-division-x.png)
 
 En el ejemplo anteior, podemos leer la caja más grande a la derecha como
-$$
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;
 2x^2 + 7x + 6
 = (x^2+2x) + (x^2+2x) + (x+2) + (x+2) + (x+2)
-$$
-$$
+"  title="equation" />
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;
 2x^2 + 7x + 6
 = (x+2)x + (x+2)x + (x+2) + (x+2) + (x+2)
-$$
-
+"  title="equation" />
 
 
 # Resumen
 
 Hicimos todo lo anterior gracias a dos bloques de construcción matemáticos, los axiomas
 
-* $$x + 0 = 0$$,
-* $$x − x = 0$$.
+* <img src="https://latex.codecogs.com/svg.latex?\Large&space;
+x + 0 = 0
+"  title="equation" />
+
+* <img src="https://latex.codecogs.com/svg.latex?\Large&space;
+x - x = 0
+"  title="equation" />
+
 
 Ellos indican verdades tan simples que los pasamos desapercibidos. Junto con los demás axiomas de campo y las leyes de potencias, estos axiomas forman el núcleo del Álgebra, que es la base de las matemáticas que cualquier persona en áreas no STEM requiere en su vida diaria y profesional.
